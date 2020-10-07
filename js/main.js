@@ -41,7 +41,6 @@
       const images = [
         'img/seven.png',
         'img/bell.png',
-        'img/cherry.png',
       ];
       return images[Math.floor(Math.random() * images.length)];
     }
